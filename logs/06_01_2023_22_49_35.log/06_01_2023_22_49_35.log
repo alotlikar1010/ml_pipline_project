@@ -1,0 +1,8 @@
+[ 2023-06-01 22:49:35,154 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-01 22:49:35,154 ] 224 werkzeug - INFO -  * Debugger PIN: 124-477-088
+[ 2023-06-01 22:50:04,258 ] 10 root - INFO - we are testing second method
+[ 2023-06-01 22:50:04,258 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/Jun/2023 22:50:04] "GET / HTTP/1.1" 200 -
+[ 2023-06-01 22:50:04,287 ] 224 werkzeug - INFO - 127.0.0.1 - - [01/Jun/2023 22:50:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-01 22:51:32,605 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\91880\\Desktop\\ML_Project\\ml_pipline_project\\src\\exception.py', reloading
+[ 2023-06-01 22:51:32,605 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\91880\\Desktop\\ML_Project\\ml_pipline_project\\src\\exception.py', reloading
+[ 2023-06-01 22:51:32,605 ] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\91880\\desktop\\ml_project\\ml_pipline_project\\src\\exception.py', reloading
